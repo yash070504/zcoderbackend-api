@@ -47,9 +47,7 @@ zcoderbackend-api/
 
 ## ⚡ Getting Started
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/yash070504/zcoderbackend-api.git
 cd zcoderbackend-api
-npm install
-npm start
